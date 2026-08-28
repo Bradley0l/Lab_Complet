@@ -1,0 +1,16 @@
+﻿  Comptes actifs        : 497
+  Comptes desactives    : 1
+  Sans matricule        : 0
+  Sans service          : 0
+  Mot de passe sans exp.: 0
+  Comptes Kerberoastables: 0
+  AdminCount = 1         : 0
+  Domain Admins avec SPN : 0   (DOIT etre 0)
+  Domain Admins         : 1
+  Enterprise Admins     : 1
+  Protected Users       : 1
+  Controleurs de domaine: 2
+  gMSA                  : 1
+  Corbeille AD active   : Oui
+  Dormants > 90j        : 497
+  Sans manager          : 9   (les responsables, normal)

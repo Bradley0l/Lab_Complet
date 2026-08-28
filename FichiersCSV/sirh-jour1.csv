@@ -1,0 +1,7 @@
+﻿Matricule,Prenom,Nom,Service,Statut
+E00001,Sofiane,Roux,Direction,Actif
+E00002,Jade,Robert,Direction,Actif
+E00003,Lina,Cherif,Direction,Actif
+E00501,Nouveau,Arrivant,RH,Actif
+E00003,Lina,Cherif,Commercial,Actif
+E00002,Jade,Robert,Direction,Parti

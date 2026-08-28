@@ -1,0 +1,39 @@
+# === SECRETS — NE JAMAIS COMMITTER ===
+secretClient_appDemoRealmKeycloak.txt
+*secret*
+*password*
+*.pfx
+*.key
+*.pem
+*.p12
+mots-de-passe*
+credentials*
+
+# Exports pouvant contenir des donnees sensibles
+erreurs-provisionnement.csv
+
+# === Fichiers de machines virtuelles (volumineux) ===
+*.vmdk
+*.vmx
+*.vmsn
+*.vmss
+*.nvram
+*.vmem
+*.iso
+*.lck
+
+# === Windows ===
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# === Editeurs / LaTeX ===
+.vscode/
+.idea/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
